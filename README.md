@@ -8,7 +8,7 @@ D3.js was a pleasure to play with.
 I am more advanced in Angular now and EUI (You remember when I install it the first time?) 
 I assume you use it now.
 
-Anyway, I'm looking for a job now is Brussels.
+Anyway, I'm looking for a job now in Brussels.
 If you have something in mind please tell me :)
 
 Regards,
